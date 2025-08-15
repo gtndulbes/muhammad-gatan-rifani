@@ -7,8 +7,8 @@
 🔹 Contributor to open-source projects
 
 ## 🚀 Featured Projects
-- [Smart Grid Simulation](https://github.com/username/project1)
-- [IoT Solar Monitoring System](https://github.com/username/project2)
+- [Smart Grid Simulation](https://github.com/gtndulbes/project1)
+- [IoT Solar Monitoring System](https://github.com/gtndulbes/project2)
 
 ## 📫 Connect with Me
-[LinkedIn](https://linkedin.com/in/username) | [Portfolio](https://username.github.io) | [Email](mailto:emailkamu@gmail.com)
+[LinkedIn](https://linkedin.com/in/muhammadgatanrifani) | [Portfolio](https://muhammadgatanrifani.netlify.app) | [Email](mailto:muhammadgatanrifani@gmail.com)
